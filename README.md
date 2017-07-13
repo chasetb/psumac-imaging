@@ -25,6 +25,10 @@ Slides, scripts, and additional materials related to my presentation at PSU MacA
 * [RDS](https://aws.amazon.com/rds/)
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/)
 
+**MacAdmin Communications**
+[MacEnterprise Mailing List](http://www.macenterprise.org/mailing-list)
+[MacAdmins Slack](https://macadmins.herokuapp.com/)
+
 **Additional Resources:**
 * [DigiCert CSR Tool](https://www.digicert.com/easy-csr/openssl.htm)
 * [Let's Encrypt](https://letsencrypt.org/)
