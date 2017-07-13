@@ -17,6 +17,7 @@ Slides, scripts, and additional materials related to my presentation at PSU MacA
 * [My AWS Fork](https://github.com/chasetb/imagr_server/tree/aws)
 
 **AWS Services:**
+* [Getting Started with AWS](https://aws.amazon.com/getting-started/)
 * [AWS CLI](https://aws.amazon.com/cli/)
 * [IAM](https://aws.amazon.com/iam/)
 * [S3](https://aws.amazon.com/s3/)
