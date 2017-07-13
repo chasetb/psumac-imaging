@@ -1,4 +1,4 @@
-# imaging-psumacadmins-2017
+# psumac-imaging
 
 Slides, scripts, and additional materials related to my presentation at PSU MacAdmins: Imaging in 50+ Locations
 
