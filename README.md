@@ -2,6 +2,9 @@
 
 Slides, scripts, and additional materials related to my presentation at PSU MacAdmins: Imaging in 50+ Locations
 
+**Session Video
+[Imaging in 50+ Locations on YouTube](https://youtu.be/0FeN1mcQKlQ)
+
 
 **Open Source Software we use for imaging:**
 * [Imagr](https://www.imagr.io/)
