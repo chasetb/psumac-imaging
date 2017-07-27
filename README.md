@@ -2,7 +2,7 @@
 
 Slides, scripts, and additional materials related to my presentation at PSU MacAdmins: Imaging in 50+ Locations
 
-**Session Video
+**Session Video**
 [Imaging in 50+ Locations on YouTube](https://youtu.be/0FeN1mcQKlQ)
 
 
